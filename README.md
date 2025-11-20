@@ -29,8 +29,8 @@ Execute Django admin and create details for 10 books
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+<img width="1905" height="1019" alt="image" src="https://github.com/user-attachments/assets/373de78f-30da-43b6-9434-28cba4d02cc4" />
 
-
+NAME:JAGADHEESH KUMAR T     REGISTER NO:25019269
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
