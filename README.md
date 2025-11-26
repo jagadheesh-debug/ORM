@@ -1,6 +1,6 @@
 # Ex02 Django ORM Web Application
 ## Date:20/11/2025 
-REG NO:25019269
+## REG NO:25019269
 
 ## AIM
 To develop a Django Application to store and retrieve data from a E-Commerce Website Database for Amazon or Flipkart using Object Relational Mapping(ORM).
@@ -48,8 +48,9 @@ admin.site.register(amazon_DB,amazon_DBAdmin)
 
 ## OUTPUT
 
-<img width="1905" height="1019" alt="image" src="https://github.com/user-attachments/assets/373de78f-30da-43b6-9434-28cba4d02cc4" />
+<img width="1753" height="837" alt="image" src="https://github.com/user-attachments/assets/e6f0f265-6eab-4e0a-b656-d117d0689be1" />
 
-NAME:JAGADHEESH KUMAR T     REGISTER NO:25019269
+
+
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
